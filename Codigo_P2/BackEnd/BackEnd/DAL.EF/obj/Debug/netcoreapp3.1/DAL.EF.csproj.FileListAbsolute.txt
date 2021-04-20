@@ -28,3 +28,18 @@ C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jona
 C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
 C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
 C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.json
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.dev.json
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csprojAssemblyReference.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CopyComplete
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache

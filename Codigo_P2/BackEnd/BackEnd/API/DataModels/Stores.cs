@@ -10,7 +10,7 @@ namespace API.DataModels
         public Stores()
         {
            // Orders = new HashSet<Orders>();
-            Staffs = new HashSet<Staffs>();
+            //Staffs = new HashSet<Staffs>();
             //Stocks = new HashSet<Stocks>();
         }
 
@@ -24,7 +24,7 @@ namespace API.DataModels
         public string ZipCode { get; set; }
 
        // public virtual ICollection<Orders> Orders { get; set; }
-       public virtual ICollection<Staffs> Staffs { get; set; }
+       //public virtual ICollection<Staffs> Staffs { get; set; }
         // public virtual ICollection<Stocks> Stocks { get; set; }
     }
 }

@@ -40,3 +40,24 @@ C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jona
 C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
 C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CopyComplete
 C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.genruntimeconfig.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.deps.json
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.json
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.dev.json
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csprojAssemblyReference.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfo.cs
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CopyComplete
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.dll
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.pdb
+C:\Users\allan\Documents\GitHub\Quiz1\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.genruntimeconfig.cache
