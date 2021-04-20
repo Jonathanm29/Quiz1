@@ -1,0 +1,525 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\BS\\BS.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\BS\\BS.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\BS\\BS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\BS\\BS.csproj",
+        "projectName": "BS",
+        "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\BS\\BS.csproj",
+        "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\BS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj",
+        "projectName": "DAL.DO",
+        "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj",
+        "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj",
+        "projectName": "DAL.EF",
+        "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj",
+        "projectName": "DAL.Repository",
+        "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj",
+        "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.Repository\\DAL.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

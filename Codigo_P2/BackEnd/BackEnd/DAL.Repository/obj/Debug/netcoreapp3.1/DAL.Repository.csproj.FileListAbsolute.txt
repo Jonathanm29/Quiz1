@@ -1,0 +1,34 @@
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.deps.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csprojAssemblyReference.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CopyComplete
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csprojAssemblyReference.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.deps.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CopyComplete
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache

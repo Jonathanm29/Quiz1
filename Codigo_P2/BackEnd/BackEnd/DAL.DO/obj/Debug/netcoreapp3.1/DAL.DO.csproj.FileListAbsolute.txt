@@ -1,0 +1,24 @@
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.deps.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.dev.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csprojAssemblyReference.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfoInputs.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfo.cs
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.CoreCompileInputs.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.genruntimeconfig.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.deps.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.dev.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csprojAssemblyReference.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfoInputs.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfo.cs
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.CoreCompileInputs.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.genruntimeconfig.cache

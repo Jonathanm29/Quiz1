@@ -1,0 +1,42 @@
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.deps.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.dev.json
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csprojAssemblyReference.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfoInputs.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfo.cs
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CoreCompileInputs.cache
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CopyComplete
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.dll
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.pdb
+C:\Users\JonathanPC\Downloads\SC701_ICUA21_M-main\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.genruntimeconfig.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csprojAssemblyReference.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfoInputs.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfo.cs
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CoreCompileInputs.cache
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.deps.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.dev.json
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\BS.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.csproj.CopyComplete
+C:\Users\JonathanPC\Dropbox\U Fidelitas\Programacion Avanzada en Web\Quiz_2_Jonathan_Villegas_Murillo\Codigo_P2\BackEnd\BackEnd\BS\obj\Debug\netcoreapp3.1\BS.genruntimeconfig.cache
