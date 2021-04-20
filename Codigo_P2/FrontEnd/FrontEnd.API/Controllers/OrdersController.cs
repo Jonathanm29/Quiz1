@@ -14,6 +14,9 @@ namespace FrontEnd.API.Controllers
 
     public class OrdersController : Controller
     {
+
+        Common.Listas Listas = new Common.Listas();
+
         string baseurl = "http://localhost:61186/";
 
 
@@ -59,9 +62,9 @@ namespace FrontEnd.API.Controllers
         // GET: Orders/Create
         public IActionResult Create()
         {
-            ViewData["CustomerId"] = new SelectList(getAllCustomers(), "CustomerId", "Email");
-            ViewData["StaffId"] = new SelectList(getAllStaffs(), "StaffId", "Email");
-            ViewData["StoreId"] = new SelectList(getAllStores(), "StoreId", "StoreName");
+            ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email");
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View();
         }
 
@@ -89,9 +92,9 @@ namespace FrontEnd.API.Controllers
                     }
                 }
             }
-            ViewData["CustomerId"] = new SelectList(getAllCustomers(), "CustomerId", "Email", orders.CustomerId);
-            ViewData["StaffId"] = new SelectList(getAllStaffs(), "StaffId", "Email", orders.StaffId);
-            ViewData["StoreId"] = new SelectList(getAllStores(), "StoreId", "StoreName", orders.StoreId);
+            ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", orders.CustomerId);
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email", orders.StaffId);
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", orders.StoreId);
             return View(orders);
         }
 
@@ -110,9 +113,9 @@ namespace FrontEnd.API.Controllers
                 return NotFound();
             }
 
-            ViewData["CustomerId"] = new SelectList(getAllCustomers(), "CustomerId", "Email", orders.CustomerId);
-            ViewData["StaffId"] = new SelectList(getAllStaffs(), "StaffId", "Email", orders.StaffId);
-            ViewData["StoreId"] = new SelectList(getAllStores(), "StoreId", "StoreName", orders.StoreId);
+            ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", orders.CustomerId);
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email", orders.StaffId);
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", orders.StoreId);
             return View(orders);
         }
 
@@ -161,9 +164,9 @@ namespace FrontEnd.API.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CustomerId"] = new SelectList(getAllCustomers(), "CustomerId", "Email", orders.CustomerId);
-            ViewData["StaffId"] = new SelectList(getAllStaffs(), "StaffId", "Email", orders.StaffId);
-            ViewData["StoreId"] = new SelectList(getAllStores(), "StoreId", "StoreName", orders.StoreId);
+            ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", orders.CustomerId);
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email", orders.StaffId);
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", orders.StoreId);
             return View(orders);
         }
 
@@ -227,62 +230,6 @@ namespace FrontEnd.API.Controllers
             }
             return aux;
         }
-        private List<data.Customers> getAllCustomers()
-        {
-
-            List<data.Customers> aux = new List<data.Customers>();
-            using (var cl = new HttpClient())
-            {
-                cl.BaseAddress = new Uri(baseurl);
-                cl.DefaultRequestHeaders.Clear();
-                cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res =  cl.GetAsync("api/Customers").Result;
-
-                if (res.IsSuccessStatusCode)
-                {
-                    var auxres = res.Content.ReadAsStringAsync().Result;
-                    aux = JsonConvert.DeserializeObject<List<data.Customers>>(auxres);
-                }
-            }
-            return aux;
-        }
-        private List<data.Stores> getAllStores()
-        {
-
-            List<data.Stores> aux = new List<data.Stores>();
-            using (var cl = new HttpClient())
-            {
-                cl.BaseAddress = new Uri(baseurl);
-                cl.DefaultRequestHeaders.Clear();
-                cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = cl.GetAsync("api/Stores").Result;
-
-                if (res.IsSuccessStatusCode)
-                {
-                    var auxres = res.Content.ReadAsStringAsync().Result;
-                    aux = JsonConvert.DeserializeObject<List<data.Stores>>(auxres);
-                }
-            }
-            return aux;
-        }
-        private List<data.Staffs> getAllStaffs()
-        {
-
-            List<data.Staffs> aux = new List<data.Staffs>();
-            using (var cl = new HttpClient())
-            {
-                cl.BaseAddress = new Uri(baseurl);
-                cl.DefaultRequestHeaders.Clear();
-                cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = cl.GetAsync("api/Staffs").Result;
-
-                if (res.IsSuccessStatusCode)
-                {
-                    var auxres = res.Content.ReadAsStringAsync().Result;
-                    aux = JsonConvert.DeserializeObject<List<data.Staffs>>(auxres);
-                }
-            }
-            return aux;
-        }
+     
     }
 }
