@@ -29,7 +29,7 @@ namespace API.Controllers
             [HttpGet]
         public async Task<ActionResult<IEnumerable<DataModels.Staffs>>> GetStaffs()
         {
-            var aux = new BS.Staffs(_context).GetAll();
+            var aux = await new BS.Staffs(_context).GetAllWithAsync();
 
             var mapaux = _mapper.Map<IEnumerable<data.Staffs>, IEnumerable<datamodels.Staffs>>(aux).ToList();
             return mapaux;
@@ -38,7 +38,7 @@ namespace API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<DataModels.Staffs>> GetStaffs(int id)
         {
-            var staffs = new BS.Staffs(_context).GetOneById(id);
+            var staffs = await new BS.Staffs(_context).GetOneByIdWithAsync(id);
             var mapaux = _mapper.Map<data.Staffs, datamodels.Staffs>(staffs);
 
             if (staffs == null)
@@ -66,7 +66,7 @@ namespace API.Controllers
 
                 new BS.Staffs(_context).Update(mapaux);
             }
-            catch (Exception)
+            catch (Exception ee)
             {
                 if (!StaffsExists(id))
                 {
@@ -80,7 +80,6 @@ namespace API.Controllers
 
             return NoContent();
         }
-
         // POST: api/Staffs
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
@@ -98,13 +97,15 @@ namespace API.Controllers
         [HttpDelete("{id}")]
         public async Task<ActionResult<DataModels.Staffs>> DeleteStaffs(int id)
         {
-            var staffs = new BS.Staffs(_context).GetOneById(id);
+            var staffs = await _context.Staffs.FindAsync(id);
             if (staffs == null)
             {
                 return NotFound();
             }
+
             new BS.Staffs(_context).Delete(staffs);
             var mapaux = _mapper.Map<data.Staffs, datamodels.Staffs>(staffs);
+
             return mapaux;
         }
 

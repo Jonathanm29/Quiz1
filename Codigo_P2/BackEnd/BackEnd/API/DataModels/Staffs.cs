@@ -7,10 +7,10 @@ namespace API.DataModels
 {
     public class Staffs
     {
-        public Staffs()
-        {
-            //Orders = new HashSet<Orders>();
-        }
+        //public Staffs()
+        //{
+        //    Orders = new HashSet<Orders>();
+        //}
 
         public int StaffId { get; set; }
         public string FirstName { get; set; }

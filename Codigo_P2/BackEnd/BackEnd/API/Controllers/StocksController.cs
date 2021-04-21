@@ -29,18 +29,20 @@ namespace API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<DataModels.Stocks>>> GetStocks()
         {
-            var aux = new BS.Stocks(_context).GetAll();
+            var aux = await new BS.Stocks(_context).GetAllWithAsync();
 
             var mapaux = _mapper.Map<IEnumerable<data.Stocks>, IEnumerable<datamodels.Stocks>>(aux).ToList();
             return mapaux;
+
         }
 
         // GET: api/Stocks/5
         [HttpGet("{id}")]
         public async Task<ActionResult<datamodels.Stocks>> GetStocks(int id)
         {
-            var stocks =  new BS.Stocks(_context).GetOneById(id);
+            var stocks = await new BS.Stocks(_context).GetOneByIdWithAsync(id);
             var mapaux = _mapper.Map<data.Stocks, datamodels.Stocks>(stocks);
+
             if (stocks == null)
             {
                 return NotFound();
@@ -66,7 +68,7 @@ namespace API.Controllers
 
                 new BS.Stocks(_context).Update(mapaux);
             }
-            catch (Exception)
+            catch (Exception ee)
             {
                 if (!StocksExists(id))
                 {
@@ -98,13 +100,14 @@ namespace API.Controllers
         [HttpDelete("{id}")]
         public async Task<ActionResult<DataModels.Stocks>> DeleteStocks(int id)
         {
-            var stocks = new BS.Stocks(_context).GetOneById(id);
+            var stocks = await _context.Stocks.FindAsync(id);
             if (stocks == null)
             {
                 return NotFound();
             }
             new BS.Stocks(_context).Delete(stocks);
             var mapaux = _mapper.Map<data.Stocks, datamodels.Stocks>(stocks);
+
             return mapaux;
         }
 

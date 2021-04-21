@@ -33,6 +33,7 @@ namespace API.Controllers
 
             var mapaux = _mapper.Map<IEnumerable<data.Orders>, IEnumerable<datamodels.Orders>>(aux).ToList();
             return mapaux;
+
             //return await new Solution.BS.Foci(_context).GetAllWithAsync();
         }
 

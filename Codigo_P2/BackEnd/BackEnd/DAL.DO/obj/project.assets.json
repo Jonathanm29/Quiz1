@@ -5682,23 +5682,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JonathanPC\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\allan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj",
+      "projectUniqueName": "C:\\Users\\allan\\Documents\\GitHub\\Quiz1\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj",
       "projectName": "DAL.DO",
-      "projectPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj",
-      "packagesPath": "C:\\Users\\JonathanPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JonathanPC\\Dropbox\\U Fidelitas\\Programacion Avanzada en Web\\Quiz_2_Jonathan_Villegas_Murillo\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\obj\\",
+      "projectPath": "C:\\Users\\allan\\Documents\\GitHub\\Quiz1\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\DAL.DO.csproj",
+      "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\allan\\Documents\\GitHub\\Quiz1\\Codigo_P2\\BackEnd\\BackEnd\\DAL.DO\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JonathanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5710,6 +5706,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5721,6 +5718,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -5758,7 +5756,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
