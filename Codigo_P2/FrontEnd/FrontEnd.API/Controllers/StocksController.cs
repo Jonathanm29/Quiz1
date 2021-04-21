@@ -62,9 +62,7 @@ namespace FrontEnd.API.Controllers
         // GET: Stocks/Create
         public IActionResult Create()
         {
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email");
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStocks(), "StaffId", "Email");
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View();
         }
 
@@ -92,9 +90,7 @@ namespace FrontEnd.API.Controllers
                     }
                 }
             }
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", stocks.CustomerId);
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStocks(), "StaffId", "Email", stocks.StaffId);
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", stocks.StoreId);
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View(stocks);
         }
 
@@ -113,9 +109,7 @@ namespace FrontEnd.API.Controllers
                 return NotFound();
             }
 
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", stocks.CustomerId);
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStocks(), "StaffId", "Email", stocks.StaffId);
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", stocks.StoreId);
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View(stocks);
         }
 
@@ -164,9 +158,7 @@ namespace FrontEnd.API.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", stocks.CustomerId);
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStocks(), "StaffId", "Email", stocks.StaffId);
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", stocks.StoreId);
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View(stocks);
         }
 

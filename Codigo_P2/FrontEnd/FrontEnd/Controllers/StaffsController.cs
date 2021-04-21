@@ -48,8 +48,8 @@ namespace FrontEnd.Controllers
         // GET: Staffs/Create
         public IActionResult Create()
         {
-            ViewData["ManagerId"] = new SelectList(_context.Staffs, "StaffId", "Email");
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreName");
+            //ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
+            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View();
         }
 

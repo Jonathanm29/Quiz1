@@ -62,9 +62,8 @@ namespace FrontEnd.API.Controllers
         // GET: Staffs/Create
         public IActionResult Create()
         {
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email");
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View();
         }
 
@@ -92,9 +91,8 @@ namespace FrontEnd.API.Controllers
                     }
                 }
             }
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", staffs.CustomerId);
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email", staffs.StaffId);
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", staffs.StoreId);
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View(staffs);
         }
 
@@ -112,10 +110,8 @@ namespace FrontEnd.API.Controllers
             {
                 return NotFound();
             }
-
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", staffs.CustomerId);
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email", staffs.StaffId);
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", staffs.StoreId);
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View(staffs);
         }
 
@@ -164,9 +160,8 @@ namespace FrontEnd.API.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            //ViewData["CustomerId"] = new SelectList(Listas.getAllCustomers(), "CustomerId", "Email", staffs.CustomerId);
-            //ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email", staffs.StaffId);
-            //ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName", staffs.StoreId);
+            ViewData["StaffId"] = new SelectList(Listas.getAllStaffs(), "StaffId", "Email");
+            ViewData["StoreId"] = new SelectList(Listas.getAllStores(), "StoreId", "StoreName");
             return View(staffs);
         }
 
